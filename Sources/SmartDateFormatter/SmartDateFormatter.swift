@@ -13,6 +13,7 @@ public final class SmartDateFormatter: Sendable {
         "yyyy-MM-dd'T'HH:mm:ss.SSSZ",
         "yyyy-MM-dd",
         "dd-MM-yyyy",
+        "MM/dd/yyyy HHmm",
         "MM/dd/yyyy",
         "dd/MM/yyyy",
         "MMM d, yyyy",
